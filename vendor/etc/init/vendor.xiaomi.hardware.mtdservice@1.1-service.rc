@@ -1,0 +1,3 @@
+service vendor.mtdservice /vendor/bin/mtd@1.1
+    class hal
+    group system drmrpc
