@@ -1,0 +1,50 @@
+{
+  "localId": "a9c2b367-a541-4d29-9db5-e764d4d392ee",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "ceb8c2bf6bc6cf9af308fbb88ccaa60b9bb799c8",
+  "platform": 8,
+  "size": 265,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "zh_TW": "黑金",
+    "bo_CN": "གསེར་ནག",
+    "en_US": "Rhodium",
+    "ug_CN": "قارا ئالتۇن",
+    "zh_CN": "黑金"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [],
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "en_US": [],
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": "18:9"
+}
