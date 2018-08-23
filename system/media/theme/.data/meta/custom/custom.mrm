@@ -1,0 +1,30 @@
+[
+    {
+        "subject":"museum",
+        "international":false,
+        "hwversion":[
+            "2.4.2"
+        ],
+        "local":{
+            "id":"d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6"
+        },
+        "online":{
+            "id":"32a15b84-7417-40b8-b8f9-0c933bb3f5c6",
+            "title":{
+                "en_US":"British Museum",
+                "zh_CN":"大英博物馆"
+            },
+            "preview":"file:///android_asset/theme-settings-res/precust_online_theme_museum.jpg"
+        }
+    },
+    {
+        "subject":"jade",
+        "international":false,
+        "hwversion":[
+            "2.4.4"
+        ],
+        "local":{
+            "id":"d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6"
+        }
+    }
+]
