@@ -1,0 +1,126 @@
+{
+  "localId": "99e79e01-525d-4a54-b81d-abccdd2728ff",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "9c987723091a5eaf1190c61d5b2352cf8c08fd1d",
+  "platform": 8,
+  "size": 2067,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "ro_RO": "Rodiu",
+    "es_US": "Rodio",
+    "pt_BR": "Ródio",
+    "th_TH": "โรเดียม​",
+    "bn_BD": "রোডিয়াম",
+    "in_ID": "Rhodium",
+    "cs_CZ": "Rhodium",
+    "ca_ES": "Rodio",
+    "hu_HU": "Ródium",
+    "nb_NO": "Rhodium",
+    "ne_IN": "रोडियाम",
+    "gl_ES": "Rodio",
+    "kn_IN": "ರೋಡಿಯಂ",
+    "sk_SK": "Ródium",
+    "es_ES": "Rodio",
+    "te_IN": "రోడియం",
+    "ur_IN": "رھوڈیم",
+    "sv_SE": "Rodium",
+    "da_DK": "Rhodium",
+    "ta_IN": "ரோடியம்",
+    "sr_RS": "Родијум",
+    "my_MM": "ခဲရောင်",
+    "iw_IL": "רודיום",
+    "hr_HR": "Rodijum",
+    "ko_KR": "로디움",
+    "en_US": "Rhodium",
+    "lt_LT": "Rodis",
+    "en_IN": "Rhodium",
+    "kk_KZ": "Родий",
+    "it_IT": "Rodio",
+    "ru_RU": "Родий",
+    "el_GR": "Ρόδιο",
+    "pl_PL": "Rod",
+    "tr_TR": "Rodyum",
+    "hi_IN": "रोडियम",
+    "mr_IN": "र्होडियम",
+    "km_KH": "រ៉ូដ្យូម",
+    "fr_FR": "Rhodium",
+    "ja_JP": "ロジウム",
+    "de_DE": "Rhodium",
+    "ms_MY": "Rhodium",
+    "or_IN": "ରୋଡିଅମ",
+    "zh_TW": "黑金",
+    "zh_HK": "黑金",
+    "uz_UZ": "Rodyum",
+    "eu_ES": "Rhodium",
+    "ha_NG": "Rodiyum",
+    "as_IN": "ৰ'ডিয়াম",
+    "bn_IN": "রোডিয়াম",
+    "pa_IN": "ਰੋਡੀਅਮ",
+    "fa_IR": "رودیوم",
+    "bg_BG": "Pодий",
+    "vi_VN": "Rhodi",
+    "mk_MK": "Родиум",
+    "az_AZ": "Rodium",
+    "fi_FI": "Rodium",
+    "en_GB": "Rhodium",
+    "gu_IN": "રોડિયમ",
+    "et_EE": "Roodium",
+    "ka_GE": "როდიუმი",
+    "lv_LV": "Rodijs",
+    "uk_UA": "Родій",
+    "ml_IN": "റോഡിയം",
+    "ne_NP": "रोडियाम",
+    "ur_PK": "رھوڈیم",
+    "sl_SI": "Rodij",
+    "zh_CN": "黑金",
+    "ar_EG": "روديوم",
+    "pt_PT": "Ródio"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ],
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ],
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": "18:9"
+}
